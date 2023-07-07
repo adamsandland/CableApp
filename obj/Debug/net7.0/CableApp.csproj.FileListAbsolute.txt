@@ -1,0 +1,15 @@
+/Users/adam/Documents/Work/CableApp/obj/Debug/net7.0/CableApp.csproj.AssemblyReference.cache
+/Users/adam/Documents/Work/CableApp/obj/Debug/net7.0/CableApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adam/Documents/Work/CableApp/obj/Debug/net7.0/CableApp.AssemblyInfoInputs.cache
+/Users/adam/Documents/Work/CableApp/obj/Debug/net7.0/CableApp.AssemblyInfo.cs
+/Users/adam/Documents/Work/CableApp/obj/Debug/net7.0/CableApp.csproj.CoreCompileInputs.cache
+/Users/adam/Documents/Work/CableApp/bin/Debug/net7.0/CableApp
+/Users/adam/Documents/Work/CableApp/bin/Debug/net7.0/CableApp.deps.json
+/Users/adam/Documents/Work/CableApp/bin/Debug/net7.0/CableApp.runtimeconfig.json
+/Users/adam/Documents/Work/CableApp/bin/Debug/net7.0/CableApp.dll
+/Users/adam/Documents/Work/CableApp/bin/Debug/net7.0/CableApp.pdb
+/Users/adam/Documents/Work/CableApp/obj/Debug/net7.0/CableApp.dll
+/Users/adam/Documents/Work/CableApp/obj/Debug/net7.0/refint/CableApp.dll
+/Users/adam/Documents/Work/CableApp/obj/Debug/net7.0/CableApp.pdb
+/Users/adam/Documents/Work/CableApp/obj/Debug/net7.0/CableApp.genruntimeconfig.cache
+/Users/adam/Documents/Work/CableApp/obj/Debug/net7.0/ref/CableApp.dll

@@ -1,0 +1,20 @@
+###CABLE###|||destination|||source|||cabletype 
+###CABLE###|||destination|||source |||cabletype 
+###CABLE###|||destination|||source |||cabletype 
+###CABLE###|||destination|||source |||cabletype 
+###CABLE###|||destination|||source |||cabletype 
+###PORT###|||PortID 
+###PORT###|||PortID 
+###DEVICE###|||layer|||no. of ports 
+###PORT###|||PortID 
+###PORT###|||PortID 
+###DEVICE###|||layer|||no. of ports 
+###RACK###|||number|||location 
+###PORT###|||PortID 
+###PORT###|||PortID 
+###DEVICE###|||layer|||no. of ports 
+###PORT###|||PortID 
+###PORT###|||PortID 
+###DEVICE###|||layer|||no. of ports 
+###RACK###|||number|||location 
+###ROOM###|||name|||location
